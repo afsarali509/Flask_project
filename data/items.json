@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Alice Johnson", "role": "Developer"},
+  {"id": 2, "name": "Bob Smith", "role": "Designer"},
+  {"id": 3, "name": "Carol Davis", "role": "Project Manager"}
+]

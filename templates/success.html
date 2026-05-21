@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Success{% endblock %}
+
+{% block content %}
+<div class="success-card">
+    <h1>Data submitted successfully</h1>
+    <p>Your information has been stored in MongoDB Atlas.</p>
+    <a class="btn-link" href="{{ url_for('index') }}">Submit another entry</a>
+</div>
+{% endblock %}
